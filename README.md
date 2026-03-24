@@ -1,8 +1,10 @@
 # Civic Intelligence Search Tool
 
+> **Status:** Active
+
 Open WebUI tool for cross-source search across all civic intelligence data and data freshness status.
 
-Part of the [Civic Intelligence Platform](https://github.com/unreliable-machine/civic-tools) for [Change Agent AI](https://thechange.ai).
+Part of the [Change Agent Civic Intelligence Platform](https://github.com/unreliable-machine/civic-tools/blob/main/PLATFORM.md).
 
 ## Installation
 
